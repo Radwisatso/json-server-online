@@ -1,8 +1,8 @@
 {
   "contacts": [
     {
-      name: "Raditya",
-      phone: "08123456789"
+      "name": "Raditya",
+      "phone": "08123456789"
     }
   ]
 }
